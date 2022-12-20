@@ -1,0 +1,65 @@
+h1{
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+position: relative;
+text-align: center;
+bottom: -250px;
+}
+
+body{
+
+background-color: rgb(255, 246, 189);
+
+}
+
+.about
+{
+
+position: center;
+text-align: center;
+font-size: larger;
+font-style: oblique;
+}
+h3{
+
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img.ph
+{
+    position: relative;
+    height: 250px;
+    border-radius:20px
+
+
+}
+
+
+p{
+    text-align: center;
+}
+
+#info
+{
+
+
+text-align: center;
+
+}
+
+#container{
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 1.2cm;
+position: relative;
+text-align: center;
+bottom: -100px;
+}
+
+.top{
+
+background-image: url('https://static.vecteezy.com/system/resources/previews/003/343/387/large_2x/desktop-source-code-and-wallpaper-by-coding-and-programming-free-photo.jpg');
+width: auto;
+height: 200px;
+}
